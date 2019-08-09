@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "608455400697",
+    "firebase_url": "https://fir-storage-2b585.firebaseio.com",
+    "project_id": "fir-storage-2b585",
+    "storage_bucket": "fir-storage-2b585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608455400697:android:0a56bcf08658a04e",
+        "android_client_info": {
+          "package_name": "com.example.chirag.firebase_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608455400697-0ojf5hi9juc5ino1tkfl3lmij1huc15c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chirag.firebase_chat",
+            "certificate_hash": "2a52656df4c1df14ec449e2fb492cd1108746b05"
+          }
+        },
+        {
+          "client_id": "608455400697-lootoflq4ca3nlej9nu8nfvqnnh6sijb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY_MF1vP03WaeMoZcJV1hZvP6OhJUsee0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608455400697-lootoflq4ca3nlej9nu8nfvqnnh6sijb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
